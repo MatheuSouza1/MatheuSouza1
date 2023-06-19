@@ -17,5 +17,3 @@
     <img aling="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>                  
 </div>
 <br/>
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheuSouza1&show_icons=true&theme=tokyonight)
